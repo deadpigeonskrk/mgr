@@ -1,0 +1,1 @@
+{"perplexity": 2.9494073390960693, "reference": "A: I'm in a kitchen with a center island, what room are you in?", "hypothesis": "ROOMS VISITED BY A:", "bleu-1": 0.036287181315765006, "bleu-2": 0.02868753570633078, "bleu-3": 0.0, "bleu-4": 0.0, "rouge": 0.10526315789473685, "bertscore": [0.807327151298523], "bleurt": [-1.0465863943099976]}

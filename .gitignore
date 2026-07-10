@@ -1,0 +1,13 @@
+*.ipynb_checkpoints/
+.venv/
+GraphWOZ/
+clip_env/
+detectron/
+nltk_data/
+ollama_instalation/
+yolo_env/
+yolov12/
+image_processing:~/
+clip_env/
+cogni_baseline/
+image_processing/PhotoBook/v2/train.json/

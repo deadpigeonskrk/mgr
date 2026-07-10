@@ -1,0 +1,1 @@
+{"perplexity": 1.8920735120773315, "reference": "B: poster with group of people on the wall", "hypothesis": "A: I'm now in a living room with a couch and a fireplace", "bleu-1": 0.14285714285714285, "bleu-2": 0.0, "bleu-3": 0.0, "bleu-4": 0.0, "rouge": 0.08695652173913043, "bertscore": [0.8865171074867249], "bleurt": [-1.265545129776001]}

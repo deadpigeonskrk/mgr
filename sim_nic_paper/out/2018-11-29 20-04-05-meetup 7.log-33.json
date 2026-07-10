@@ -1,0 +1,1 @@
+{"perplexity": 1.045918345451355, "reference": "B: We're supposed to meet in the nursery, correct?", "hypothesis": "A: go /south", "bleu-1": 0.0493193927883213, "bleu-2": 0.0, "bleu-3": 0.0, "bleu-4": 0.0, "rouge": 0.0, "bertscore": [0.8129351735115051], "bleurt": [-1.4946976900100708]}

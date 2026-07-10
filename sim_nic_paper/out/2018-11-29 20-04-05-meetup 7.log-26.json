@@ -1,0 +1,1 @@
+{"perplexity": 2.9494073390960693, "reference": "A: go /south", "hypothesis": "ROOMS VISITED BY A:", "bleu-1": 0.4, "bleu-2": 0.316227766016838, "bleu-3": 0.0, "bleu-4": 0.0, "rouge": 0.28571428571428575, "bertscore": [0.8069213628768921], "bleurt": [-1.3746023178100586]}

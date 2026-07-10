@@ -1,0 +1,1 @@
+{"perplexity": 111.75816345214844, "reference": "A: are the walls tan?", "hypothesis": "A: I'm in a blue living room", "bleu-1": 0.25, "bleu-2": 0.18898223650461357, "bleu-3": 0.0, "bleu-4": 0.0, "rouge": 0.15384615384615385, "bertscore": [0.8797800540924072], "bleurt": [-1.3692500591278076]}

@@ -1,0 +1,1 @@
+{"perplexity": 9.659314155578613, "reference": "A: I'm now in a locker room with yellow jerseys", "hypothesis": "A: I'm in a room with a couch, what room are you in?", "bleu-1": 0.4375, "bleu-2": 0.3415650255319866, "bleu-3": 0.20274006651911333, "bleu-4": 0.0, "rouge": 0.56, "bertscore": [0.876842737197876], "bleurt": [-1.5151698589324951]}

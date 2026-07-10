@@ -1,0 +1,1 @@
+{"perplexity": 4.750467300415039, "reference": "A: I am in the living room", "hypothesis": "A: I am in the living room", "bleu-1": 1.0, "bleu-2": 1.0, "bleu-3": 1.0, "bleu-4": 1.0, "rouge": 1.0, "bertscore": [1.0], "bleurt": [1.0465080738067627]}

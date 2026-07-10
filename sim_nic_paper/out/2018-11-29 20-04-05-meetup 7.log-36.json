@@ -1,0 +1,1 @@
+{"perplexity": 1.8102790117263794, "reference": "B: Try to find your way to me", "hypothesis": "A: go /south", "bleu-1": 0.08986579282344434, "bleu-2": 0.0, "bleu-3": 0.0, "bleu-4": 0.0, "rouge": 0.0, "bertscore": [0.8469434976577759], "bleurt": [-1.2087082862854004]}

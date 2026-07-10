@@ -1,0 +1,81 @@
+curl http://localhost:11434/api/generate -d '{
+  "model": "llava",
+  "prompt": "Describe the picture",
+  "stream": false,
+  "images": ["'"$(base64 -w 0 wolf.jpg)"'"]
+}' | jq -r '.response'
+
+
+curl http://localhost:11434/api/generate -d '{
+  "model": "llava",
+  "prompt": "How many pictures are there?",
+  "images": ['example.jpg']
+}' | jq -r '.response'
+
+
+-------------------------
+
+! curl http://localhost:11434/api/generate -d '{"model": "llava","prompt": "Describe this image.","stream": false,"images": ["'"$(base64 -w 0 sets_images/774_5_A.jpg)"'"]}' | jq -r '.response'
+
+-------------------------
+
+
+curl http://localhost:11434/api/generate -d '{
+  "model": "llava",
+  "prompt": "Compare these two images and describe the differences.",
+  "stream": false,
+  "images": [
+    "'"$(base64 -w 0 image1.jpg)"'",
+    "'"$(base64 -w 0 image2.jpg)"'"
+  ]
+}' | jq -r '.response'
+
+-------------------------
+
+curl http://localhost:11434/api/generate -d '{"model": "llava","prompt": "Compare these two images and describe the differences.","stream": false,"images": ["'"$(base64 -w 0 image1.jpg)"'","'"$(base64 -w 0 image2.jpg)"'"]}' | jq -r '.response'
+
+-------------------------
+
+python -m venv llava_env
+source llava_env/bin/activate
+
+-
+module avail
+module load
+
+-make environment a kernel
+pip install ipykernel
+python -m ipykernel install --user --name qwen --display-name "Python (qwen)"
+
+-
+conda remove -n llava --all
+
+-------------------------
+
+nvidia-smi && (nvidia-smi |tr -s ' '|grep -Eo "| [0123456789]+ N/A N/A [0-9]{3,} .*"|awk -F' ' '{system("s=$(cat /proc/"$4"/cmdline| tr \"\\0\" \" \");u=$(ps -o uname= -p "$4");echo "$1"sep"$4"sep$u sep"$7"sep$s" ) }'|sed 's/sep/\t/g')
+
+-------------------------
+
+cat ~/.bash_history
+
+-------------------------
+
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+
+-------------------------
+
+--save thigns in jupyter
+
+%store my_dict
+%store -r my_dict
+
+-------------------------
+
+inspect Data.i[ynb
+
+LLaVA Test.py
+
+-------------------------
+install library on kernel
+import sys
+!{sys.executable} -m pip install evaluate

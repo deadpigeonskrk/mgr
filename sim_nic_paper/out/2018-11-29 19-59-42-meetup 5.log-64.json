@@ -1,0 +1,1 @@
+{"perplexity": 2.3776302337646484, "reference": "A: im in the dining room now", "hypothesis": "A: I'm in the red one now", "bleu-1": 0.625, "bleu-2": 0.42257712736425823, "bleu-3": 0.0, "bleu-4": 0.0, "rouge": 0.5333333333333333, "bertscore": [0.909200131893158], "bleurt": [-1.3785480260849]}

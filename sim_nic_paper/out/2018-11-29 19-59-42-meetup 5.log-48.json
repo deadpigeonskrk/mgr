@@ -1,0 +1,1 @@
+{"perplexity": 1.2841342687606812, "reference": "B: red", "hypothesis": "B: No, the walls are white", "bleu-1": 0.25, "bleu-2": 0.18898223650461357, "bleu-3": 0.0, "bleu-4": 0.0, "rouge": 0.25, "bertscore": [0.8633783459663391], "bleurt": [-1.249009370803833]}

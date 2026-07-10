@@ -1,0 +1,1 @@
+{"perplexity": 1.0160191059112549, "reference": "B: bedroom", "hypothesis": "B: I'm in a living room with a couch.", "bleu-1": 0.18181818181818182, "bleu-2": 0.13483997249264845, "bleu-3": 0.0, "bleu-4": 0.0, "rouge": 0.16666666666666669, "bertscore": [0.8625632524490356], "bleurt": [-0.524942934513092]}

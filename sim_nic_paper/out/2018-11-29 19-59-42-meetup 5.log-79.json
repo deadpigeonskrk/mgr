@@ -1,0 +1,1 @@
+{"perplexity": 2.161233901977539, "reference": "B: ok, type \"/done\" without the quotes", "hypothesis": "B: I'm in the tan one now", "bleu-1": 0.22744899739223753, "bleu-2": 0.14038456897256543, "bleu-3": 0.0, "bleu-4": 0.0, "rouge": 0.26666666666666666, "bertscore": [0.8592911958694458], "bleurt": [-1.4108569622039795]}

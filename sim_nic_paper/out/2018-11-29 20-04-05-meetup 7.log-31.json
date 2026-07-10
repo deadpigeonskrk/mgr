@@ -1,0 +1,1 @@
+{"perplexity": 1.328378438949585, "reference": "A: go /south", "hypothesis": "B: I am in the living room", "bleu-1": 0.12500000000000003, "bleu-2": 0.0, "bleu-3": 0.0, "bleu-4": 0.0, "rouge": 0.0, "bertscore": [0.8369494676589966], "bleurt": [-1.518946647644043]}

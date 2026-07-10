@@ -1,0 +1,34 @@
+a-game-of-sorts
+-(choose the most dangerous dog) less about relations in between the objects
+http://127.0.0.1:8989/tree?token=3655d2782a228455ea927661726a27b6f991f68a6aab537b
+
+MeetUp 
+finding eachother in the apartment
+https://github.com/clp-research/meetup
+Meet Up! A Corpus of Joint Activity Dialogues in a Visual Environment
+
+InfoVisDial (2023)
+InfoVisDial: An Informative Visual Dialogue Dataset by Bridging Large Multimodal and Language Models
+
+VOGUE (2025)
+VOGUE: A Multimodal Dataset for Conversational Recommendation in Fashion
+
+CUPS corpus 
+GU
+https://gup.ub.gu.se/publication/323053?lang=en
+
+MMchat
+-chineese conversations with multiomdal chats
+https://aclanthology.org/2022.lrec-1.621.pdf
+https://huggingface.co/datasets/silver/mmchat/viewer/mmchat/train
+
+REX corpora
+Tangram
+The REX corpora: A collection of multimodal corpora of referring expressions in collaborative problem solving dialogues
+
+PentoRef
+-not very intresting objects
+PentoRef: A Corpus of Spoken References in Task-oriented Dialogues
+
+CLEVR dataset
+-not intresing pictures of figures

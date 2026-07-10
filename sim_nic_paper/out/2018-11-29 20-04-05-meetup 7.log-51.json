@@ -1,0 +1,1 @@
+{"perplexity": 1.1107003688812256, "reference": "A: I am in the nursery now!", "hypothesis": "A: I am in the kitchen", "bleu-1": 0.6441233940645308, "bleu-2": 0.6351142315744464, "bleu-3": 0.6235957970161131, "bleu-4": 0.608025321419836, "rouge": 0.7692307692307692, "bertscore": [0.9179174900054932], "bleurt": [-0.7709179520606995]}

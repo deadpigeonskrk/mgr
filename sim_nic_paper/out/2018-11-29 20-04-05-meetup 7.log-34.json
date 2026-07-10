@@ -1,0 +1,1 @@
+{"perplexity": 1.050524115562439, "reference": "A: yes, that is correct", "hypothesis": "A: Yes, that's correct.", "bleu-1": 0.5714285714285714, "bleu-2": 0.3086066999241838, "bleu-3": 0.0, "bleu-4": 0.0, "rouge": 0.8000000000000002, "bertscore": [0.937725305557251], "bleurt": [0.8538030385971069]}
