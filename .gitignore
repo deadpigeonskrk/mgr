@@ -10,4 +10,4 @@ yolov12/
 image_processing:~/
 clip_env/
 cogni_baseline/
-image_processing/PhotoBook/v2/train.json/
+image_processing/PhotoBook/v2/train.json
