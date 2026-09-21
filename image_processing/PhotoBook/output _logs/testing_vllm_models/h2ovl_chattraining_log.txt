@@ -1,0 +1,5 @@
+Namespace(model_type='h2ovl_chat', method='generate', seed=0, num_images=12, tensor_parallel_size=None, f='/home/slorys/.local/share/jupyter/runtime/kernel-cff6122f-a1ae-4517-9b71-e22a7fb8f368.json')
+--------------------------------------------------
+The image shows a table with a variety of food items. On the table, there are two plates of food, one with a sandwich and the other with a salad. There are also two bowls of food, one with a sandwich and the other with a salad. Additionally, there are two cups on the table, one with a red liquid and the other with a clear liquid.
+--------------------------------------------------
+--- 93.06547284126282 seconds ---

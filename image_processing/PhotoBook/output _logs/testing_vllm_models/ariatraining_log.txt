@@ -1,0 +1,1 @@
+Namespace(model_type='aria', method='generate', seed=0, num_images=12, tensor_parallel_size=None, f='/home/slorys/.local/share/jupyter/runtime/kernel-cff6122f-a1ae-4517-9b71-e22a7fb8f368.json')
