@@ -1,0 +1,96 @@
+{
+    "1834_6_1_A": [
+        [
+            "The image you marked as common is Image 1.",
+            [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant."
+                },
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Image 1:"
+                        },
+                        {
+                            "type": "image",
+                            "image": "file://images/cake_dining_table/COCO_train2014_000000152914.jpg"
+                        },
+                        {
+                            "type": "text",
+                            "text": "Image 2:"
+                        },
+                        {
+                            "type": "image",
+                            "image": "file://images/cake_dining_table/COCO_train2014_000000222244.jpg"
+                        },
+                        {
+                            "type": "text",
+                            "text": "Image 3:"
+                        },
+                        {
+                            "type": "image",
+                            "image": "file://images/cake_dining_table/COCO_train2014_000000126144.jpg"
+                        },
+                        {
+                            "type": "text",
+                            "text": "Image 4:"
+                        },
+                        {
+                            "type": "image",
+                            "image": "file://images/cake_dining_table/COCO_train2014_000000235744.jpg"
+                        },
+                        {
+                            "type": "text",
+                            "text": "Image 5:"
+                        },
+                        {
+                            "type": "image",
+                            "image": "file://images/cake_dining_table/COCO_train2014_000000134599.jpg"
+                        },
+                        {
+                            "type": "text",
+                            "text": "Image 6:"
+                        },
+                        {
+                            "type": "image",
+                            "image": "file://images/cake_dining_table/COCO_train2014_000000134238.jpg"
+                        },
+                        {
+                            "type": "text",
+                            "text": "\nYou are a helpful language and vision assistant. You see a chat between two people, A and B.\nThey are playing a game in which they are seeing a set of 6 images from the photobook album.\nTheir task is to find out which photos are common for both of them, and which are different.\nThey are chatting between each other.\n6 images you received are images that player A sees. \nAt this point of conversation player A marks one of the images as common. Which one is it?\n"
+                        }
+                    ]
+                }
+            ]
+        ],
+        [
+            "A: Now I have candles.\nB: close up of cake and fork\nB: yes, candles\n",
+            "A marks image 235744 as common\n",
+            "A",
+            235744,
+            "common",
+            {
+                "A": [
+                    "cake_dining_table/COCO_train2014_000000152914.jpg",
+                    "cake_dining_table/COCO_train2014_000000222244.jpg",
+                    "cake_dining_table/COCO_train2014_000000126144.jpg",
+                    "cake_dining_table/COCO_train2014_000000235744.jpg",
+                    "cake_dining_table/COCO_train2014_000000134599.jpg",
+                    "cake_dining_table/COCO_train2014_000000134238.jpg"
+                ],
+                "B": [
+                    "cake_dining_table/COCO_train2014_000000392943.jpg",
+                    "cake_dining_table/COCO_train2014_000000126144.jpg",
+                    "cake_dining_table/COCO_train2014_000000235744.jpg",
+                    "cake_dining_table/COCO_train2014_000000222244.jpg",
+                    "cake_dining_table/COCO_train2014_000000134599.jpg",
+                    "cake_dining_table/COCO_train2014_000000381996.jpg"
+                ]
+            }
+        ],
+        "--- 37.09252381324768 seconds ---"
+    ]
+}

@@ -11,3 +11,4 @@ image_processing:~/
 clip_env/
 cogni_baseline/
 image_processing/PhotoBook/v2/train.json
+image_processing/PhotoBook/__pycache__/logsProcessing_export.cpython-312.pyc

@@ -1,0 +1,33 @@
+{
+    "1834_6_1_A": [
+        [
+            "The image you marked as common is Image 1."
+        ],
+        [
+            "A: Now I have candles.\nB: close up of cake and fork\nB: yes, candles\n",
+            "A marks image 235744 as common\n",
+            "A",
+            235744,
+            "common",
+            {
+                "A": [
+                    "cake_dining_table/COCO_train2014_000000152914.jpg",
+                    "cake_dining_table/COCO_train2014_000000222244.jpg",
+                    "cake_dining_table/COCO_train2014_000000126144.jpg",
+                    "cake_dining_table/COCO_train2014_000000235744.jpg",
+                    "cake_dining_table/COCO_train2014_000000134599.jpg",
+                    "cake_dining_table/COCO_train2014_000000134238.jpg"
+                ],
+                "B": [
+                    "cake_dining_table/COCO_train2014_000000392943.jpg",
+                    "cake_dining_table/COCO_train2014_000000126144.jpg",
+                    "cake_dining_table/COCO_train2014_000000235744.jpg",
+                    "cake_dining_table/COCO_train2014_000000222244.jpg",
+                    "cake_dining_table/COCO_train2014_000000134599.jpg",
+                    "cake_dining_table/COCO_train2014_000000381996.jpg"
+                ]
+            }
+        ],
+        "--- 54.278430461883545 seconds ---"
+    ]
+}
